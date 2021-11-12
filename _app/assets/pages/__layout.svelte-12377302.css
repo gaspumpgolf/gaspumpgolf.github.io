@@ -1,0 +1,1 @@
+body{font-size:clamp(16px,1.65vw,24px)}main{max-width:24em;padding:0 1em}button,input{font-size:1.25em;padding:.5em;user-select:none}hr{margin:1em 0}.skip-to-main{border:none;width:1px;height:1px;overflow:hidden;position:absolute}.skip-to-main:focus{width:auto;height:auto;padding:.25em;z-index:1000;background:white}
